@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon Day-6-Simple-Authentication-Middleware index.js",
+    "start": "nodemon Weekly-Test-3 index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Yash",
